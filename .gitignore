@@ -1,0 +1,8 @@
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.fasta
+*.fa
+*.gz
+data/
